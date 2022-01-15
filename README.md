@@ -12,7 +12,7 @@ Attribute Information:
 
 <ul>variables (based on physicochemical tests):</ul>
 <li>1 - fixed acidity</li>
-<l1>2 - volatile acidity</li>
+<li>2 - volatile acidity</li>
 <li>3 - citric acid</li>
 <li>4 - residual sugar</li>
 <li>5 - chlorides</li>
