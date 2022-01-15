@@ -10,19 +10,18 @@ Density (min-0.99007, max-1.00369)
 <h2> About Dataset Used
 Attribute Information:
 
-Input variables (based on physicochemical tests):
-1 - fixed acidity
-2 - volatile acidity
-3 - citric acid
-4 - residual sugar
-5 - chlorides
-6 - free sulfur dioxide
-7 - total sulfur dioxide
-8 - density
-9 - pH
-10 - sulphates
-11 - alcohol
-Output variable (based on sensory data):
-12 - quality (score between 0 and 10)
+<ul>variables (based on physicochemical tests):</ul>
+<li>1 - fixed acidity</li>
+<l1>2 - volatile acidity</li>
+<li>3 - citric acid</li>
+<li>4 - residual sugar</li>
+<li>5 - chlorides</li>
+<li>6 - free sulfur dioxide</li>
+<li>7 - total sulfur dioxide<li>
+<li>8 - density</li>
+<li>9 - pH<li>
+<li>10 - sulphates</li>
+<li>11 - alcohol</li>
+<li>12 - quality (score between 0 and 10)<li>
   
 <h4>To know more about dataset visit: https://archive.ics.uci.edu/ml/datasets/wine+quality
